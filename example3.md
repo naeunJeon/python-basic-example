@@ -42,4 +42,5 @@ ret4 = 'l' in strdata
 print(ret3)             #True
 print(ret4)             #False
 ```
-in키워드로 자료에 어떤 값이 있는지 없는지 확인할 수 있다.<br>**<값> in <자료>**
+in키워드로 자료에 어떤 값이 있는지 없는지 확인할 수 있다.
+<br>**<값> in <자료>**
