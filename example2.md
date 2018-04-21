@@ -1,4 +1,4 @@
-##시퀀스 자료형
+## 시퀀스 자료형(1)
 1.시퀀스 자료 인덱싱
 ```python
 strdata = 'Time is money!!'
