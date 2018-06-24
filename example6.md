@@ -9,7 +9,7 @@ tuple3 = (1, 'a', 'abc', [1,2,3,4,5], ['a','b','c'])
 ```python
 tuple1[0] = 6
 ```
-tuple1[0]의 값을 6으로 변경하려면 아래와 같은 오류가 발생한다.
+tuple1[0]의 값을 6으로 변경하려면 아래와 같은 오류가 발생한다.<br>
 **TypeError:'tuple' object does not support item assignment**
 
 ```python
